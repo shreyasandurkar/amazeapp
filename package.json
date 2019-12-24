@@ -1,9 +1,9 @@
 {
-  "name": "amaze-app",
+  "name": "amazeapp",
   "version": "0.1.0",
-  "private": true,
-  "description": "Amazin app for amazing people"
-  "repository": "https://github.com/shreyasandurkar/amazeapp.github.io"
+  "private": "true",
+  "description": "Amazing app for amazing people",
+  "repository": "https://github.com//shreyasandurkar//amazeapp",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
